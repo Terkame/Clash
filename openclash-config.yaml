@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   cordcloud:
-    url: "https://www.ccsub.org/link/cmB87qAcgrcAmjER?clash=1"
+    url: "机场订阅"
     type: http
     interval: 86400
     health-check:
